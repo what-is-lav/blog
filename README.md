@@ -14,3 +14,4 @@ python manage.py migrate
 python manage.py runserver
 API Документация
 После запуска проекта перейдите по адресу:http://127.0.0.1:8000/swagger/
+
